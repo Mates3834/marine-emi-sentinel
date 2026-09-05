@@ -1,0 +1,10 @@
+{
+  "sample_rate": 4000,
+  "duration": 8.0,
+  "fundamental_hz": 50.0,
+  "switching_hz": 650.0,
+  "reference_correlation": 0.85,
+  "sensor_noise_std": 0.04,
+  "filter_order": 16,
+  "seed": 7
+}
